@@ -1,0 +1,20 @@
+ GitHub commands
+ 
+ 
+ git init 	=> sets your project as a git repo
+ 
+ git add . 	=> add the changed files to the change list 
+ 
+ git commit -m "Message..."  => commits files
+ 
+ git push origin => pushes changed to github
+ 
+ 
+ 
+ 
+ to point you git repo to the github repository
+ 
+ git remote add origin https://github.com/leonardocoll/Tea-Station-Project.git   
+ git remote set-url origin https://github.com/leonardocoll/Tea-Station-Project.git
+ git branch -M main
+ git push -u origin main
